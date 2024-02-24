@@ -1,9 +1,9 @@
 ---
 title: About
-author: Tao He
+author: Astrid
 date: 2022-02-04
 category: Jekyll
 layout: post
 ---
 
-This is an about page.
+This is a test website.
