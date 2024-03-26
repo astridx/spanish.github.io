@@ -53,6 +53,8 @@ accordion:
     content: Voy a salir del trabajo a las seis.
   - title: 24. I am going to call you later.
     content: Voy a llamarte luego.
+  - title: 25. Hablar en español durante un ligue.
+    content: Hablar en español durante un ligue puede ser muy divertido y romántico. Aquí tienes algunas frases que podrías usar | Hola, ¿cómo estás? Me pareces muy interesante. ¿Te gustaría tomar algo juntos? Con gusto te invito a una copa. ¿Qué te trae por aquí esta noche? ¿Buscas algo en particular? Me encanta tu sonrisa, ¿sabes? Es muy autivadora. ¿Tienes planes para el fin de semana? ¿Te gustaría hacer algo juntos? No puedo evitar notar lo guapo/guapa que eres. ¿Te lo han dicho antes? ¿Cuál es tu comida favorita? Me encantaría llevarte a cenar algún día. ¿Te gustaría bailar? La música aquí es genial y me encantaría compartir un baile contigo. ¿Qué tipo de películas te gustan? Podríamos ver una juntos algún día. Me gusta mucho tu estilo. ¿Dónde sueles comprar tu ropa?
 ---
 
 
