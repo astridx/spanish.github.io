@@ -53,28 +53,6 @@ accordion:
     content: Voy a salir del trabajo a las seis.
   - title: 24. I am going to call you later.
     content: Voy a llamarte luego.
-  - title: 25. hablar en español durante un ligue.
-    content: <br>Hola, ¿cómo estás? Me pareces muy interesante.<br>
-<br>¿Te gustaría tomar algo juntos? Con gusto te invito a una copa.<br>
-<br>¿Qué te trae por aquí esta noche? ¿Buscas algo en particular?<br>
-<br>Me encanta tu sonrisa, ¿sabes? Es muy cautivadora.<br>
-<br>¿Tienes planes para el fin de semana? ¿Te gustaría hacer algo juntos?<br>
-<br>No puedo evitar notar lo guapo/guapa que eres. ¿Te lo han dicho antes?<br>
-<br>¿Cuál es tu comida favorita? Me encantaría llevarte a cenar algún día.<br>
-<br>¿Te gustaría bailar? La música aquí es genial y me encantaría compartir un baile contigo.<br>
-<br>¿Qué tipo de películas te gustan? Podríamos ver una juntos algún día.<br>
-<br>Me gusta mucho tu estilo. ¿Dónde sueles comprar tu ropa?<br>
-
-<br>Hi, how are you? I find you very interesting.<br>
-<br>Would you like to have a drink together? I'd gladly treat you to one.<br>
-<br>What brings you here tonight? Are you looking for something specific?<br>
-<br>I love your smile, you know? It's very captivating.<br>
-<br>Do you have any plans for the weekend? Would you like to do something together?<br>
-<br>I can't help but notice how handsome/beautiful you are. Has anyone told you that before?<br>
-<br>What's your favorite food? I'd love to take you out to dinner sometime.<br>
-<br>Would you like to dance? The music here is great, and I'd love to share a dance with you.<br>
-<br>What kind of movies do you like? Maybe we could watch one together sometime.<br>
-<br>I really like your style. Where do you usually shop for clothes?<br>
 
 ---
 
