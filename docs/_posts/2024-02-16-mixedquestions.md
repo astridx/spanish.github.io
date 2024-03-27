@@ -12,21 +12,31 @@ layout: post
 
 Aquí están los días de la semana en inglés:
 
-Monday (lunes)
-Tuesday (martes)
-Wednesday (miércoles)
-Thursday (jueves)
-Friday (viernes)
-Saturday (sábado)
-Sunday (domingo)
+- Monday (lunes)
+- Tuesday (martes)
+- Wednesday (miércoles)
+- Thursday (jueves)
+- Friday (viernes)
+- Saturday (sábado)
+- Sunday (domingo)
+
+## 22 Que hora es?
+
+## 23 Di cinco cosas que te gustan
+
+- Me encanta la música suave y relajante. (I love soft and relaxing music.)
+- Estar al aire libre y disfrutar de la naturaleza me hace feliz. (Being outdoors and enjoying nature makes me happy.)
+- Comer comida casera es algo que disfruto mucho. (Eating homemade food is something I really enjoy.)
+- Estar con amigos y familiares me divierte mucho. (Being with friends and family is a lot of fun for me.)
+- Me gusta mucho leer libros interesantes. (I really like reading interesting books.)
 
 ## 24 Di cinco cosas que no te gustan
 
-Los ruidos fuertes me molestan mucho. (Loud noises bother me a lot.)
-Cuando hay mucha gente y muchas cosas, me pongo nervioso/a. (When there are lots of people and lots of things, I get nervous.)
-Las peleas y los problemas me estresan mucho. (Fights and problems stress me out a lot.)
-No me gusta cuando me critican. (I don't like it when people criticize me.)
-Hacer las cosas rápido y bajo presión me pone nervioso/a. (Doing things quickly and under pressure makes me nervous.)
+- Los ruidos fuertes me molestan mucho. (Loud noises bother me a lot.)
+- Cuando hay mucha gente y muchas cosas, me pongo nervioso/a. (When there are lots of people and lots of things, I get nervous.)
+- Las peleas y los problemas me estresan mucho. (Fights and problems stress me out a lot.)
+- No me gusta cuando me critican. (I don't like it when people criticize me.)
+- Hacer las cosas rápido y bajo presión me pone nervioso/a. (Doing things quickly and under pressure makes me nervous.)
 
 
 ## 25. Hablar en español durante una visita al médico
