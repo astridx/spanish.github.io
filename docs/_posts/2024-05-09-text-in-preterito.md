@@ -12,16 +12,16 @@ layout: post
 
 Ayer fue (ser) un día precioso. El sol brilló (brillar).
 
-Fuimos (ser) de camino a la ciudad con nuestro perro.
+Fuimos (ir) de camino a la ciudad con nuestro perro.
 
-A nuestro perro le gustó (gustarse) eso de ayer. Comimos un helado y le dimos (darse) algo a nuestro perro.
+A nuestro perro le gustó (gustarse) eso de ayer. Comimos un helado y le dimos (dar) algo a nuestro perro.
 
-La caminata de ayer fue (ser) probablemente demasiado lejos para nuestro perro, porque cojeó (cojear) esta mañana.
+La caminata de ayer fue (ser) probablemente demasiado larga (no lejos) para nuestro perro, porque cojeaba (cojear) esta mañana.
 
-Ayer me pregunté (preguntarse) qué es "Auf die Plätze, fertig, los" en español. El traductor me mostró (mostrarse) "En sus marcas, listos, ya"?
+Ayer me pregunté (preguntarse) qué es "Auf die Plätze, fertig, los" en español. El traductor me mostró (mostrarse) "Preparados, listos, ya"?
 
 Esta mañana tuve problemas con mi ordenador. ¿Cómo se dice correctamente? Computatora o ordneador?
 Mi ordenador se reincio (reiniciar) esta mañana mientras (durante?) trabajé.
 
-¿Qué hiciste (hacer) ayer? ¿Empacaste todas las cajas en la semana pasada?
+¿Qué hiciste (hacer) ayer? ¿ Embalaste ( lat. Empacaste) todas las cajas la semana pasada?
 
