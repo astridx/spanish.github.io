@@ -37,6 +37,9 @@ Diciembre - December
 
 ## 3 Di los numeros hasta viente
 
+uno
+dos
+
 ## 4 Di diez anmimales
 
 - Conejo (Rabbit)
