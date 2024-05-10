@@ -20,7 +20,7 @@ Aquí están los días de la semana en inglés:
 - Saturday (sábado)
 - Sunday (domingo)
 
-# 2 Di los meses del ano
+## 2 Di los meses del ano
 
 Enero - January
 Febrero - February
@@ -35,9 +35,9 @@ Octubre - October
 Noviembre - November
 Diciembre - December
 
-# 3 Di los numeros hasta viente
+## 3 Di los numeros hasta viente
 
-# 4 Di diez anmimales
+## 4 Di diez anmimales
 
 - Conejo (Rabbit)
 - Liebre (Hare)
@@ -64,7 +64,7 @@ Diciembre - December
 - Pájaro (Bird)
 - Pez (Fish)
 
-# 5 Di diez partes del cuerpo
+## 5 Di diez partes del cuerpo
 
 - Cabeza (Kopf / Head)
 - Cuello (Hals / Neck)
