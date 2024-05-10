@@ -122,7 +122,7 @@ dos
 - Índigo - Indigo - Indigo
 - Violeta claro - Light purple - Hellviolett
 
-## Di diez cosas de la casa
+## 7 Di diez cosas de la casa
 
 - Mesa - Table - Tisch
 - Silla - Chair - Stuhl
@@ -155,7 +155,7 @@ dos
 - Taza - Mug - Tasse
 - Vaso - Glass - Glas
 
-## Di diez cosas que se puede encontrar en un bolsa de una mujer
+## 8 Di diez cosas que se puede encontrar en un bolsa de una mujer
 
 - Llaves - Keys
 - Billetera - Wallet
@@ -179,7 +179,7 @@ dos
 - Documentos personales (DNI, pasaporte) - Personal documents (ID, passport)
 
 
-## 13 Di diez contrarios
+## 9 Di diez contrarios
 
 - Grande - Pequeño (Big - Small)
 - Alto - Bajo (Tall - Short)
@@ -203,7 +203,7 @@ dos
 - Fácil - Difícil (Easy - Difficult)
 
 
-## 14 Di diez comparativos
+## 10 Di diez comparativos
 
 - Juan es más alto que Pedro. - Juan is taller than Pedro.
 - Este libro es menos grande que el otro. - This book is less big than the other one.
