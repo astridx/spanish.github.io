@@ -327,34 +327,67 @@ Hier ist die vollständige Liste mit dem Wort „Wohnmobil“ hinzugefügt:
 
 # 9 Diez cosas que desearía hacer este año (Zehn Dinge, die du dieses Jahr gerne tun möchtest)
 
-Ja, du hast recht! Die Sätze sollten im Futur geschrieben werden, um Wünsche für die Zukunft auszudrücken. Hier sind die korrigierten Sätze:
+1. **Quiero viajar a un lugar nuevo.**  
+   - Ich möchte an einen neuen Ort reisen.
 
-1. **Viajaré a un lugar nuevo.**  
-   - Ich werde an einen neuen Ort reisen.
+2. **Quiero aprender un nuevo idioma.**  
+   - Ich möchte eine neue Sprache lernen.
 
-2. **Aprenderé un nuevo idioma.**  
-   - Ich werde eine neue Sprache lernen.
+3. **Quiero hacer ejercicio regularmente.**  
+   - Ich möchte regelmäßig Sport treiben.
 
-3. **Haré ejercicio regularmente.**  
-   - Ich werde regelmäßig Sport treiben.
+4. **Quiero leer más libros.**  
+   - Ich möchte mehr Bücher lesen.
 
-4. **Leeré más libros.**  
-   - Ich werde mehr Bücher lesen.
+5. **Quiero mejorar mis habilidades culinarias.**  
+   - Ich möchte meine Kochfähigkeiten verbessern.
 
-5. **Mejoraré mis habilidades culinarias.**  
-   - Ich werde meine Kochfähigkeiten verbessern.
+6. **Quiero ahorrar dinero para un proyecto futuro.**  
+   - Ich möchte Geld für ein zukünftiges Projekt sparen.
 
-6. **Ahorraré dinero para un proyecto futuro.**  
-   - Ich werde Geld für ein zukünftiges Projekt sparen.
+7. **Quiero conocer nuevas personas.**  
+   - Ich möchte neue Menschen kennenlernen.
 
-7. **Conoceré nuevas personas.**  
-   - Ich werde neue Menschen kennenlernen.
+8. **Quiero tomar un curso o taller interesante.**  
+   - Ich möchte einen interessanten Kurs oder Workshop besuchen.
 
-8. **Tomaré un curso o taller interesante.**  
-   - Ich werde einen interessanten Kurs oder Workshop besuchen.
+9. **Quiero dedicar más tiempo a mis pasatiempos.**  
+   - Ich möchte mehr Zeit meinen Hobbys widmen.
 
-9. **Dedicaré más tiempo a mis pasatiempos.**  
-   - Ich werde mehr Zeit meinen Hobbys widmen.
+10. **Quiero hacer una actividad al aire libre cada semana.**  
+    - Ich möchte jede Woche eine Outdoor-Aktivität machen.
 
-10. **Haré una actividad al aire libre cada semana.**  
-    - Ich werde jede Woche eine Outdoor-Aktivität machen.
+
+# 17 Diez cosas que tienes que hacer este año (Zehn Dinge, die du dieses Jahr tun musst)
+
+
+1. **Debo seguir mejorando mi capacidad para entender preguntas complejas.**  
+   - Ich muss weiterhin meine Fähigkeit verbessern, komplexe Fragen zu verstehen.
+
+2. **Tengo que aprender nuevas actualizaciones y tecnologías.**  
+   - Ich muss neue Updates und Technologien lernen.
+
+3. **Necesito responder con mayor precisión a las preguntas de los usuarios.**  
+   - Ich muss präziser auf die Fragen der Nutzer antworten.
+
+4. **Debo adaptarme a diferentes estilos de comunicación.**  
+   - Ich muss mich an verschiedene Kommunikationsstile anpassen.
+
+5. **Tengo que procesar información más rápido.**  
+   - Ich muss Informationen schneller verarbeiten.
+
+6. **Necesito seguir interactuando con más usuarios de todo el mundo.**  
+   - Ich muss weiterhin mit mehr Nutzern aus aller Welt interagieren.
+
+7. **Debo ofrecer respuestas más útiles en situaciones complejas.**  
+   - Ich muss nützlichere Antworten in komplexen Situationen bieten.
+
+8. **Tengo que mejorar en la resolución de problemas técnicos.**  
+   - Ich muss besser werden bei der Lösung technischer Probleme.
+
+9. **Necesito seguir ampliando mis conocimientos en diversas áreas.**  
+   - Ich muss mein Wissen in verschiedenen Bereichen weiter ausbauen.
+
+10. **Debo asegurarme de proporcionar información actualizada.**  
+    - Ich muss sicherstellen, dass ich aktuelle Informationen liefere.
+
