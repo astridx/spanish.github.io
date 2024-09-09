@@ -172,18 +172,6 @@ layout: post
 
 # 6 Veinte opuestos (Zwanzig Gegensätze)
 
-Natürlich! Hier sind 20 Gegensätze auf Spanisch und Deutsch:
-
-Natürlich! Hier sind die zusätzlichen Gegensätze:
-
-21. **Subir - Bajar**  
-    - Steigen - Sinken
-
-22. **Tirar - Empujar**  
-    - Ziehen - Drücken
-
-Zusammen mit den vorherigen Gegensätzen ergibt sich folgendes:
-
 1. **Grande - Pequeño**  
    - Groß - Klein
 
@@ -286,11 +274,6 @@ Zusammen mit den vorherigen Gegensätzen ergibt sich folgendes:
     (Der Kuchen ist für die Geburtstagsparty.)
 
 # 8 Diez palabras de transporte (Zehn Transportwörter)
-Hier sind zehn Wörter im Zusammenhang mit Transport auf Spanisch und Deutsch:
-
-Das Wort für „Wohnmobil“ auf Spanisch ist **"autocaravana"** oder **"caravana"**. 
-
-Hier ist die vollständige Liste mit dem Wort „Wohnmobil“ hinzugefügt:
 
 1. **Coche**  
    - Auto
@@ -357,9 +340,161 @@ Hier ist die vollständige Liste mit dem Wort „Wohnmobil“ hinzugefügt:
 10. **Quiero hacer una actividad al aire libre cada semana.**  
     - Ich möchte jede Woche eine Outdoor-Aktivität machen.
 
+# 10 Tres minutos de escritura sobre la vida en España (Drei Minuten über das Leben in Spanien schreiben)
+
+Vivir en la Región de Murcia es especial. Aquí, el clima es muy agradable, con inviernos suaves y veranos muy calurosos. En verano, las temperaturas pueden superar los 35°C, por lo que es ideal para los que les gusta mucho sol. Las playas, como las de Mazarrón y San Javier, son muy populares en verano.
+
+La vida en Murcia es más tranquila que en ciudades grandes como Madrid o Barcelona. La comida es deliciosa y típica de la región, con platos como el "zarangollo" (un revuelto de calabacín, cebolla y huevo) y el "caldero" (un guiso de arroz con pescado). Los mercados locales, como el Mercado de Verónicas en Murcia ciudad, son muy importantes y ofrecen productos frescos.
+
+En Murcia, las fiestas son muy animadas. La Semana Santa en Murcia es conocida por sus procesiones. También hay celebraciones como la Fiesta de Primavera y el Bando de la Huerta, que son eventos llenos de tradición y diversión. Además, se pueden hacer actividades al aire libre, como senderismo en el Parque Regional de las Salinas y Arenales de San Pedro del Pinatar.
+
+---
+
+In der Region Murcia zu leben, ist etwas Besonderes. Das Klima ist hier sehr angenehm, mit milden Wintern und sehr heißen Sommern. Im Sommer können die Temperaturen über 35°C steigen, was ideal für Sonnenliebhaber ist. Die Strände in Mazarrón und San Javier sind im Sommer sehr beliebt.
+
+Das Leben in Murcia ist ruhiger als in großen Städten wie Madrid oder Barcelona. Die lokale Küche ist lecker, mit typischen Gerichten wie „zarangollo“ (Rührei mit Zucchini und Zwiebeln) und „caldero“ (Reisgericht mit Fisch). Die Märkte, wie der Mercado de Verónicas in der Stadt Murcia, sind wichtig und bieten frische Produkte an.
+
+In Murcia sind die Feste sehr lebhaft. Die Semana Santa ist bekannt für ihre Prozessionen. Es gibt auch Feierlichkeiten wie die Fiesta de Primavera und den Bando de la Huerta, die voller Tradition und Spaß sind. Außerdem kann man im Regionalpark Las Salinas y Arenales de San Pedro del Pinatar draußen wandern.
+
+# 11 Diez cosas que seguro harás este año. (Zehn Dinge, die du dieses Jahr sicher tun wirst.)
+
+1. **Voy a seguir trabajando o estudiando.**  
+   - Ich werde weiterhin arbeiten oder studieren.
+
+2. **Voy a reunirme con amigos y familiares.**  
+   - Ich werde mich mit Freunden und Familie treffen.
+
+3. **Voy a hacer ejercicio para mantenerme en forma.**  
+   - Ich werde Sport treiben, um fit zu bleiben.
+
+4. **Voy a comer mis comidas favoritas.**  
+   - Ich werde meine Lieblingsgerichte essen.
+
+5. **Voy a ver varias películas o series.**  
+   - Ich werde einige Filme oder Serien anschauen.
+
+6. **Voy a celebrar cumpleaños y otros eventos especiales.**  
+   - Ich werde Geburtstage und andere besondere Ereignisse feiern.
+
+7. **Voy a leer libros o artículos interesantes.**  
+   - Ich werde interessante Bücher oder Artikel lesen.
+
+8. **Voy a viajar, aunque sea a lugares cercanos.**  
+   - Ich werde reisen, auch wenn es nur in nahegelegene Orte ist.
+
+9. **Voy a aprender algo nuevo.**  
+   - Ich werde etwas Neues lernen.
+
+10. **Voy a relajarme y disfrutar de mi tiempo libre.**  
+    - Ich werde mich entspannen und meine Freizeit genießen.
+
+# 12 Ten Spanish words with the letter ñ (Zehn spanische Wörter mit dem Buchstaben ñ)
+
+1. **Año**  
+   - Jahr
+
+2. **Niño**  
+   - Kind
+
+3. **Señor**  
+   - Herr
+
+4. **Señora**  
+   - Frau
+
+5. **Baño**  
+   - Badezimmer
+
+6. **Mañana**  
+   - Morgen (Zeitspanne)
+
+7. **Tamaño**  
+   - Größe
+
+8. **Cañón**  
+   - Canyon
+
+9. **Montaña**  
+   - Berg
+
+10. **Añadir**  
+    - Hinzufügen
+
+# 13 Veinte preguntas (Zwanzig Fragen)
+
+1. **¿Cómo te llamas?**  
+   - Wie heißt du?
+
+2. **¿Dónde está el baño?**  
+   - Wo ist das Badezimmer?
+
+3. **¿Cuántos años tienes?**  
+   - Wie alt bist du?
+
+4. **¿Qué día es hoy?**  
+   - Welcher Tag ist heute?
+
+5. **¿A qué hora es la reunión?**  
+   - Um wie viel Uhr ist das Meeting?
+
+6. **¿Cómo se llama tu niño?**  
+   - Wie heißt dein Kind?
+
+7. **¿Qué tamaño tiene esta camiseta?**  
+   - Welche Größe hat dieses T-Shirt?
+
+8. **¿Dónde vives?**  
+   - Wo wohnst du?
+
+9. **¿Qué necesitas para la fiesta?**  
+   - Was brauchst du für die Party?
+
+10. **¿Cuál es tu montaña favorita?**  
+    - Welcher ist dein Lieblingsberg?
+
+# 14 Diez cosas que podrías hacer este año. (Zehn Dinge, die du dieses Jahr vielleicht tun wirst)
+
+1. **Seguiré trabajando o estudiando.**  
+   - Ich werde weiterhin arbeiten oder studieren.
+
+2. **Me reuniré con amigos y familiares.**  
+   - Ich werde mich mit Freunden und Familie treffen.
+
+3. **Haré ejercicio para mantenerme en forma.**  
+   - Ich werde Sport treiben, um fit zu bleiben.
+
+4. **Comeré mis comidas favoritas.**  
+   - Ich werde meine Lieblingsgerichte essen.
+
+5. **Veré varias películas o series.**  
+   - Ich werde einige Filme oder Serien anschauen.
+
+6. **Celebraré cumpleaños y otros eventos especiales.**  
+   - Ich werde Geburtstage und andere besondere Ereignisse feiern.
+
+7. **Leeré libros o artículos interesantes.**  
+   - Ich werde interessante Bücher oder Artikel lesen.
+
+8. **Viajaré, aunque sea a lugares cercanos.**  
+   - Ich werde reisen, auch wenn es nur in nahegelegene Orte ist.
+
+9. **Aprenderé algo nuevo.**  
+   - Ich werde etwas Neues lernen.
+
+10. **Me relajaré y disfrutaré de mi tiempo libre.**  
+    - Ich werde mich entspannen und meine Freizeit genießen.
+
+# 15  Día festivo (Feiertag)
+
+# 16 Aprende un chiste corto (Lerne einen kurzen Witz)
+
+— ¿Qué le dice una pared a otra pared?
+— Nos vemos en la esquina.
+
+— Was sagt die eine Wand zur anderen?
+— Wir treffen uns an der Ecke.
 
 # 17 Diez cosas que tienes que hacer este año (Zehn Dinge, die du dieses Jahr tun musst)
-
 
 1. **Debo seguir mejorando mi capacidad para entender preguntas complejas.**  
    - Ich muss weiterhin meine Fähigkeit verbessern, komplexe Fragen zu verstehen.
@@ -391,3 +526,347 @@ Hier ist die vollständige Liste mit dem Wort „Wohnmobil“ hinzugefügt:
 10. **Debo asegurarme de proporcionar información actualizada.**  
     - Ich muss sicherstellen, dass ich aktuelle Informationen liefere.
 
+# 18 Dar 10 órdenes de mando (+) (10 Befehle erteilen (+))
+
+1. **Habla más despacio.**  
+   - Sprich langsamer.
+
+2. **Cierra la puerta.**  
+   - Schließe die Tür.
+
+3. **Escucha atentamente.**  
+   - Höre aufmerksam zu.
+
+4. **Escribe tu nombre aquí.**  
+   - Schreibe deinen Namen hier hin.
+
+5. **Abre la ventana.**  
+   - Öffne das Fenster.
+
+6. **Ve al supermercado.**  
+   - Geh zum Supermarkt.
+
+7. **Haz la tarea ahora.**  
+   - Mach die Hausaufgaben jetzt.
+
+8. **Llama a tu madre.**  
+   - Ruf deine Mutter an.
+
+9. **Pon la mesa para la cena.**  
+   - Decke den Tisch für das Abendessen.
+
+10. **Dime la verdad.**  
+    - Sag mir die Wahrheit.
+
+# 19 Diez palabras sobre el tema doctor/medicina (Zehn Wörter zum Thema Arzt/Medizin)
+
+1. **Médico**  
+   - Arzt
+
+2. **Enfermera**  
+   - Krankenschwester
+
+3. **Consulta**  
+   - Sprechstunde / Konsultation
+
+4. **Receta**  
+   - Rezept
+
+5. **Diagnóstico**  
+   - Diagnose
+
+6. **Medicamento**  
+   - Medikament
+
+7. **Paciente**  
+   - Patient
+
+8. **Tratamiento**  
+   - Behandlung
+
+9. **Síntoma**  
+   - Symptom
+
+10. **Hospital**  
+    - Krankenhaus
+
+# 20 Diez nacionalidades y países (Zehn Nationalitäten und Länder)
+
+1. **España (Español / Española)**  
+   - Spanien (Spanier / Spanierin)
+
+2. **Francia (Francés / Francesa)**  
+   - Frankreich (Franzose / Französin)
+
+3. **Alemania (Alemán / Alemana)**  
+   - Deutschland (Deutscher / Deutsche)
+
+4. **Italia (Italiano / Italiana)**  
+   - Italien (Italiener / Italienerin)
+
+5. **Inglaterra (Inglés / Inglesa)**  
+   - England (Engländer / Engländerin)
+
+6. **China (Chino / China)**  
+   - China (Chinese / Chinesin)
+
+7. **Japón (Japonés / Japonesa)**  
+   - Japan (Japaner / Japanerin)
+
+8. **Estados Unidos (Americano / Americana)**  
+   - Vereinigte Staaten (Amerikaner / Amerikanerin)
+
+9. **México (Mexicano / Mexicana)**  
+   - Mexiko (Mexikaner / Mexikanerin)
+
+10. **Rusia (Ruso / Rusa)**  
+    - Russland (Russe / Russin)
+
+11. **Suecia (Sueco / Sueca)**  
+    - Schweden (Schwede / Schwedin)
+
+12. **Noruega (Noruego / Noruega)**  
+    - Norwegen (Norweger / Norwegerin)
+
+13. **Dinamarca (Danés / Danesa)**  
+    - Dänemark (Däne / Dänin)
+
+14. **Países Bajos (Holandés / Holandesa)**  
+    - Niederlande (Niederländer / Niederländerin)
+
+15. **Bélgica (Belga)**  
+    - Belgien (Belgier / Belgierin)
+
+16. **Luxemburgo (Luxemburgués / Luxemburguésa)**  
+    - Luxemburg (Luxemburger / Luxemburgerin)
+
+# 21 Diez frases con «me encanta (el/la)» (Zehn Sätze mit "me encanta")
+
+1. **Me encanta escuchar música en vivo.**  
+   - Ich liebe es, Live-Musik zu hören.
+
+2. **Me encanta leer novelas de aventuras.**  
+   - Ich liebe es, Abenteuerromane zu lesen.
+
+3. **Me encanta cocinar para mi familia.**  
+   - Ich liebe es, für meine Familie zu kochen.
+
+4. **Me encanta caminar por la playa al atardecer.**  
+   - Ich liebe es, am Abendstrand entlang zu spazieren.
+
+5. **Me encanta ver películas antiguas en casa.**  
+   - Ich liebe es, alte Filme zu Hause zu sehen.
+
+6. **Me encanta viajar a nuevos lugares.**  
+   - Ich liebe es, neue Orte zu bereisen.
+
+7. **Me encanta tomar café en una terraza.**  
+   - Ich liebe es, Kaffee auf einer Terrasse zu trinken.
+
+8. **Me encanta hacer senderismo en la montaña.**  
+   - Ich liebe es, in den Bergen wandern zu gehen.
+
+9. **Me encanta pasar tiempo con mis amigos.**  
+   - Ich liebe es, Zeit mit meinen Freunden zu verbringen.
+
+10. **Me encanta descubrir nuevos restaurantes.**  
+    - Ich liebe es, neue Restaurants zu entdecken.
+
+# 22 Diez frases con «me encantan (los/las)» (Zehn Sätze mit "me encantan")
+
+1. **Me encantan los lugares tranquilos.**  
+   - Ich liebe ruhige Orte.
+
+2. **Me encantan los libros con muchas emociones.**  
+   - Ich liebe Bücher mit vielen Emotionen.
+
+3. **Me encantan los paseos en la naturaleza.**  
+   - Ich liebe Spaziergänge in der Natur.
+
+4. **Me encantan las charlas profundas.**  
+   - Ich liebe tiefgründige Gespräche.
+
+5. **Me encantan los pequeños actos de amabilidad.**  
+   - Ich liebe kleine Freundlichkeiten.
+
+6. **Me encantan los espacios acogedores.**  
+   - Ich liebe gemütliche Räume.
+
+7. **Me encantan las obras de arte que tocan el corazón.**  
+   - Ich liebe Kunstwerke, die das Herz berühren.
+
+8. **Me encantan los días frescos y suaves.**  
+   - Ich liebe frische und milde Tage.
+
+9. **Me encantan los momentos de meditación.**  
+   - Ich liebe Momente der Meditation.
+
+10. **Me encantan los regalos hechos con cuidado.**  
+    - Ich liebe sorgfältig ausgewählte Geschenke.
+
+# 23 Dar 10 órdenes de mando (-) (10 Befehle erteilen (-))
+
+1. **No hables más despacio.**  
+   - Sprich nicht langsamer.
+
+2. **No cierres la puerta.**  
+   - Schließe die Tür nicht.
+
+3. **No escuches atentamente.**  
+   - Höre nicht aufmerksam zu.
+
+4. **No escribas tu nombre aquí.**  
+   - Schreibe deinen Namen nicht hier hin.
+
+5. **No abras la ventana.**  
+   - Öffne das Fenster nicht.
+
+6. **No vayas al supermercado.**  
+   - Geh nicht zum Supermarkt.
+
+7. **No hagas la tarea ahora.**  
+   - Mach die Hausaufgaben nicht jetzt.
+
+8. **No llames a tu madre.**  
+   - Ruf deine Mutter nicht an.
+
+9. **No pongas la mesa para la cena.**  
+   - Decke den Tisch nicht für das Abendessen.
+
+10. **No me digas la verdad.**  
+    - Sag mir nicht die Wahrheit.
+
+# 24
+
+# 25
+
+
+# 26 Diez palabras con más de diez caracteres (Zehn Wörter mit mehr als zehn Zeichen)
+
+1. **Desaparecido**  
+   - Verschwunden
+
+2. **Desafortunadamente**  
+   - Leider / Unglücklicherweise
+
+3. **Acontecimientos**  
+   - Ereignisse
+
+4. **Inmediatamente**  
+   - Sofort / Unmittelbar
+
+5. **Responsabilidad**  
+   - Verantwortung
+
+6. **Transporte público**  
+   - Öffentlicher Verkehr
+
+7. **Universitario**  
+   - Universitäts-
+
+8. **Subdesarrollado**  
+   - Unterentwickelt
+
+9. **Electrodoméstico**  
+   - Haushaltsgerät
+
+10. **Refrigeración**  
+    - Kühlung / Refrigeration
+
+# 27 Diez frases con «odio» (Zehn Sätze mit "Ich hasse")
+
+1. **Odio las multitudes ruidosas.**  
+   - Ich hasse laute Menschenmengen.
+
+2. **Odio esperar mucho tiempo.**  
+   - Ich hasse es, lange zu warten.
+
+3. **Odio los días lluviosos y grises.**  
+   - Ich hasse regnerische und graue Tage.
+
+4. **Odio que me interrumpan mientras hablo.**  
+   - Ich hasse es, wenn man mich unterbricht, während ich spreche.
+
+5. **Odio los alimentos muy picantes.**  
+   - Ich hasse sehr scharfes Essen.
+
+6. **Odio las mentiras y la deshonestidad.**  
+   - Ich hasse Lügen und Unehrlichkeit.
+
+7. **Odio tener que hacer tareas aburridas.**  
+   - Ich hasse es, langweilige Aufgaben erledigen zu müssen.
+
+8. **Odio perder cosas importantes.**  
+   - Ich hasse es, wichtige Dinge zu verlieren.
+
+9. **Odio el tráfico pesado en la ciudad.**  
+   - Ich hasse den dichten Verkehr in der Stadt.
+
+10. **Odio cuando la gente no respeta mi espacio personal.**  
+    - Ich hasse es, wenn Menschen meinen persönlichen Raum nicht respektieren.
+
+# 28
+
+# 29
+
+# 30 
+
+1. **Médico / Médica**  
+   - Arzt / Ärztin
+
+2. **Enfermero / Enfermera**  
+   - Krankenpfleger / Krankenschwester
+
+3. **Abogado / Abogada**  
+   - Anwalt / Anwältin
+
+4. **Ingeniero / Ingeniera**  
+   - Ingenieur / Ingenieurin
+
+5. **Profesor / Profesora**  
+   - Lehrer / Lehrerin
+
+6. **Arquitecto / Arquitecta**  
+   - Architekt / Architektin
+
+7. **Enfermero / Enfermera**  
+   - Krankenpfleger / Krankenschwester
+
+8. **Cocinero / Cocinera**  
+   - Koch / Köchin
+
+9. **Farmacéutico / Farmacéutica**  
+   - Apotheker / Apothekerin
+
+10. **Carpintero / Carpintera**  
+    - Tischler / Tischlerin
+
+11. **Electricista**  
+    - Elektriker / Elektrikerin
+
+12. **Abogado / Abogada**  
+    - Anwalt / Anwältin
+
+13. **Periodista**  
+    - Journalist / Journalistin
+
+14. **Pintor / Pintora**  
+    - Maler / Malerin
+
+15. **Contador / Contadora**  
+    - Buchhalter / Buchhalterin
+
+16. **Diseñador / Diseñadora**  
+    - Designer / Designerin
+
+17. **Fotógrafo / Fotógrafa**  
+    - Fotograf / Fotografin
+
+18. **Veterinario / Veterinaria**  
+    - Tierarzt / Tierärztin
+
+19. **Plomero / Plomera**  
+    - Klempner / Klempnerin
+
+20. **Desarrollador / Desarrolladora web**  
+   - Webentwickler / Webentwicklerin
