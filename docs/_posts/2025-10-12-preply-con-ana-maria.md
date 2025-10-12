@@ -7,7 +7,7 @@ layout: post
 ---
 
 
-# 20250929
+# 29.9.2025
 
 Más lento, por favor.
 ¿Puede hablar más lento?
@@ -21,7 +21,7 @@ Ich verstehe nicht.
 Kannst du das bitte wiederholen?
 Wie sagt man „Hund” auf Spanisch?
 
-# 20251006
+# 6.10.2025
 
 ## Verbos como gustar
 
