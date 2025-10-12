@@ -83,7 +83,7 @@ El sujeto es **lo que gusta**, y la persona a la que le gusta se pone en **dativ
 **Expresar aprobación**
 
 
-## **Positivo**
+**Tambien/Tampoco**
 
 | Deutsch                 | Spanisch                                  | Wortwörtlich / Hinweis             |
 | ----------------------- | ----------------------------------------- | ---------------------------------- |
@@ -94,12 +94,33 @@ El sujeto es **lo que gusta**, y la persona a la que le gusta se pone en **dativ
 | Ich finde das auch toll | Yo también lo/la/los/las encuentro genial | Weniger gebräuchlich, aber korrekt |
 
 
-## **Negativo**
-
 | Deutsch                      | Spanisch                                | Hinweis                     |
 | ---------------------------- | --------------------------------------- | --------------------------- |
 | Das mag ich nicht            | A mí tampoco me gusta                   | „Mir gefällt es auch nicht“ |
 | Ich auch nicht               | Yo tampoco                              | Kurzform                    |
 | Geht mir genauso (negativ)   | A mí tampoco                            | Bei Negativaussagen         |
 | Ich finde das auch nicht gut | Yo tampoco lo/la/los/las encuentro bien | Weniger gebräuchlich        |
+
+**A mi si/A mi no**
+
+| No me gusta el café.        | → **A mí sí.** *(Mir schon!)*                   |
+| No me interesa la política. | → **A mí sí.** *(Mich interessiert sie schon.)* |
+| No me gusta bailar.         | → **A mí sí me gusta.** *(Ich tanze gern!)*     |
+
+
+| Me gusta el café.        | → **A mí no.** *(Mir nicht.)*                               |
+| Me encanta el fútbol.    | → **A mí no.** *(Ich mag Fußball nicht.)*                   |
+| Me interesa la historia. | → **A mí no me interesa.** *(Mich interessiert das nicht.)* |
+
+
+**Tambien/Tampoco o A mi si/A mi no**
+
+| Ich auch       | A mí también |
+| Ich auch nicht | A mí tampoco |
+| Mir schon      | A mí sí      |
+| Mir nicht      | A mí no      |
+
+
+> 👉 *sí / no* benutzt man als **Gegenteil**/se utiliza como **contrario**
+> 👉 *también / tampoco* benutzt man als **Übereinstimmung**,se utiliza como **acuerdo**
 
