@@ -124,3 +124,55 @@ El sujeto es **lo que gusta**, y la persona a la que le gusta se pone en **dativ
 > 👉 *sí / no* benutzt man als **Gegenteil**/se utiliza como **contrario**
 > 👉 *también / tampoco* benutzt man als **Übereinstimmung**,se utiliza como **acuerdo**
 
+# 11.11.2025
+
+
+## 🇪🇸 **Indicativo (Wirklichkeitsmodus)**
+
+| Nr. | Spanischer Name                          | Deutscher Name                  | Verwendung                                                                  | Wichtigkeit beim Lernen                                               |
+| --- | ---------------------------------------- | ------------------------------- | --------------------------------------------------------------------------- | --------------------------------------------------------------------- |
+| 1   | **Presente de indicativo**               | Präsens                         | Handlungen in der Gegenwart, allgemeine Aussagen, regelmäßige Handlungen    | 🌟 **Sehr wichtig** – wird ständig verwendet                          |
+| 2   | **Pretérito perfecto compuesto**         | Perfekt                         | Abgeschlossene Handlungen mit Bezug zur Gegenwart („he comido“)             | 🌟 **Sehr wichtig** – oft im gesprochenen Spanisch (v. a. in Spanien) |
+| 3   | **Pretérito imperfecto**                 | Imperfekt                       | Vergangenes mit Dauer, Gewohnheiten, Beschreibungen                         | 🌟 **Sehr wichtig** – Grundzeitform für Erzählungen                   |
+| 4   | **Pretérito pluscuamperfecto**           | Plusquamperfekt                 | Handlung vor einer anderen Vergangenheit („había comido“)                   | ✅ **Wichtig** – für komplexere Erzählungen                            |
+| 5   | **Pretérito perfecto simple**            | Indefinido / Präteritum         | Abgeschlossene Handlungen in der Vergangenheit, ohne Bezug zur Gegenwart    | 🌟 **Sehr wichtig** – häufig in Lateinamerika                         |
+| 6   | **Pretérito anterior**                   | Vorvergangenheit (historisch)   | Handlung vor einer anderen Vergangenheit (literarisch)                      | ⚪ **Kaum wichtig** – fast nur in Literatur                            |
+| 7   | **Futuro simple / futuro de indicativo** | Futur I                         | Zukünftige Handlungen oder Vermutungen über Gegenwart                       | ✅ **Wichtig** – aber oft ersetzt durch „ir a + Infinitiv“             |
+| 8   | **Futuro perfecto**                      | Futur II                        | Vermutungen über die Vergangenheit, abgeschlossene Zukunft („habré comido“) | ⚪ **Mittelwichtig** – selten im Alltag                                |
+| 9   | **Condicional simple**                   | Konditional I („würde“-Form)    | Wünsche, Hypothesen, Höflichkeit                                            | 🌟 **Sehr wichtig** – alltäglich in Konversation                      |
+| 10  | **Condicional perfecto**                 | Konditional II („hätte…würde…“) | Unerfüllte Bedingungen in der Vergangenheit                                 | ✅ **Wichtig** – oft in „si“-Sätzen                                    |
+
+---
+
+## 🇪🇸 **Subjuntivo (Möglichkeitsmodus)**
+
+| Nr. | Spanischer Name                                           | Deutscher Name                | Verwendung                                                  | Wichtigkeit beim Lernen                                      |
+| --- | --------------------------------------------------------- | ----------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------ |
+| 11  | **Presente de subjuntivo**                                | Konjunktiv Präsens            | Wünsche, Zweifel, Gefühle, ungewisse Handlungen             | 🌟 **Sehr wichtig** – oft nach bestimmten Auslösern („que…“) |
+| 12  | **Pretérito perfecto de subjuntivo**                      | Perfekt Konjunktiv            | Handlung vor der Hauptsatzhandlung, mit Bezug zur Gegenwart | ✅ **Wichtig** – für Nebensätze mit Vergangenheit             |
+| 13  | **Pretérito imperfecto 1 de subjuntivo (-ra Form)**       | Imperfekt Konjunktiv I        | Vergangenheit, Hypothesen, Wünsche, abhängige Sätze         | 🌟 **Sehr wichtig** – häufig in „si“-Sätzen                  |
+| 14  | **Pretérito pluscuamperfecto 1 de subjuntivo (-ra Form)** | Plusquamperfekt Konjunktiv I  | Unerfüllte Bedingung in der Vergangenheit                   | ✅ **Wichtig** – für irreale Bedingungen                      |
+| 15  | **Pretérito imperfecto 2 de subjuntivo (-se Form)**       | Imperfekt Konjunktiv II       | Gleiche Bedeutung wie 13, andere Form (-se statt -ra)       | ⚪ **Weniger wichtig** – meist literarisch                    |
+| 16  | **Pretérito pluscuamperfecto 2 de subjuntivo (-se Form)** | Plusquamperfekt Konjunktiv II | Gleich wie 14, mit -se-Form                                 | ⚪ **Weniger wichtig** – kaum gesprochen                      |
+| 17  | **Futuro de subjuntivo**                                  | Futur Konjunktiv              | Zukünftige ungewisse Handlungen (historisch)                | ❌ **Nicht wichtig** – heute veraltet                         |
+| 18  | **Futuro perfecto de subjuntivo**                         | Futur II Konjunktiv           | Vollendete zukünftige Handlung (historisch)                 | ❌ **Nicht wichtig** – nur in alten Texten                    |
+
+---
+
+## 🇪🇸 **Imperativo (Befehlsform)**
+
+| Nr. | Spanischer Name           | Deutscher Name      | Verwendung                                           | Wichtigkeit                                                       |
+| --- | ------------------------- | ------------------- | ---------------------------------------------------- | ----------------------------------------------------------------- |
+| 19  | **Imperativo afirmativo** | Positiver Imperativ | Befehle oder Aufforderungen („¡Ven aquí!“)           | 🌟 **Sehr wichtig** – für Alltagssprache                          |
+| 20  | **Imperativo negativo**   | Negativer Imperativ | Verbote oder negative Aufforderungen („¡No vengas!“) | 🌟 **Sehr wichtig** – gleiche Relevanz wie der positive Imperativ |
+
+---
+
+### 🇪🇸 **Formas no personales (Nicht konjugierte Formen)**
+
+| Nr. | Spanischer Name          | Deutscher Name                               | Verwendung                                                 | Wichtigkeit                                                 |
+| --- | ------------------------ | -------------------------------------------- | ---------------------------------------------------------- | ----------------------------------------------------------- |
+| 21  | **Infinitivo compuesto** | Zusammengesetzter Infinitiv („haber comido“) | Vorzeitigkeit im Infinitivsatz („después de haber comido“) | ⚪ **Mittelwichtig** – grammatisch interessant               |
+| 22  | **Gerundio presente**    | Gerundium („-ando/-iendo“)                   | Gleichzeitigkeit, Verlaufsform („estoy hablando“)          | 🌟 **Sehr wichtig** – in vielen Zeiten („estar + gerundio“) |
+| 23  | **Participio**           | Partizip („-ado/-ido“)                       | Bildung zusammengesetzter Zeiten und Adjektivfunktion      | 🌟 **Sehr wichtig** – Grundbaustein vieler Zeitformen       |
+
